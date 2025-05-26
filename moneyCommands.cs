@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace TheBoysBot.commands
+namespace DSharpPlusBot.commands
 {
     public class moneyCommands : BaseCommandModule
     {
